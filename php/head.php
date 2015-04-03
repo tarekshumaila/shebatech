@@ -11,12 +11,13 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script> 
 <script src="/js/jquery-1.11.0.min.js"></script> 
 <script src="/js/lightbox.min.js"></script> 
+<script src="/js/jquery.smint.js"></script> 
 <script type="text/javascript">
 
+		$(document).ready( function() {
+	$('.subMenu').smint();
+});
 	function Slider(){
-		
-
-		
 
 		$("#1").fadeIn(2000);
 		$("#slider #1 img").delay(1500).fadeIn(2000);
@@ -38,7 +39,6 @@
 			}
 		},9200);
 	}
-
 </script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

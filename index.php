@@ -8,7 +8,7 @@
             <ul class='flex' id=""><?php include './php/slider.php'; ?></ul>  
 
 <!--about us-->
-            <ul class='flex justify-around wrap-wrap' id="aboutus"><?php include './php/aboutus.php'; ?></ul>
+            <ul class='flex justify-around wrap-wrap aboutus' id="aboutus"><?php include './php/aboutus.php'; ?></ul>
             
 <!--srevices-->
             <ul class='flex justify-around wrap-wrap' id="services"><?php include './php/services.php'; ?></ul>

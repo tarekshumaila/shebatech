@@ -1,0 +1,29 @@
+To Do list-
+Menu -
+	- test to make sure it is good for mobile, iphones etc..
+    - Fix hover on the menu ---important--- with respect to all screens
+    - animate the transition from each section when clicking a menu item (ex: istanbuilt.com make it as a reference)
+    - add back to top button
+	
+Slider:
+    - (done)animate captions on slides
+    - (suggestion) remove background and make the icons svg? that way we can animate the image then the caption? maybe move this to version #2 when we feel like it?
+    - (this is going to be hard) add back and forth buttons for slides (its so frustrating now) - we need two functions, one to grab the next slide, and one to get the previous slide. Doable but takes time. bleary version two
+
+Portfolio
+	- Update images
+		1. (done) Shumiala Hari
+		2. Youinspire.net (need to fix this website ASAP)
+		3. (done) CanHeaven Immigration
+		4. Yobyobi
+		5. Scarfs
+    - fix the flex mobile version just like the services, it's a little screwed up somehow
+    
+Contact us
+    - the contact information is different on safari
+    - suggestion: put the the contact information above the form and make the the height of the background 500 px
+
+Testing
+	- make sure it's working smoothly on Safari, and iPad, iPhone.	- Mobile friendlyness test on both safari and chrome.
+Footer
+    - add blog using wordpress

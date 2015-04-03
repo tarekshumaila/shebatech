@@ -4,7 +4,7 @@
     </a>
 </li>
 
-<li class="menuscroll" id="menu">
+<li id="menu">
     <ul >
         <a href="#home" class="menuitem first"> <li class="menu">Home</li> </a>
         <a href="#aboutus" class="menuitem second"> <li class="menu">About us</li>  </a>

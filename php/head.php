@@ -5,10 +5,10 @@
 
 <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/themes/smoothness/jquery-ui.css" />
+<script src="/js/jquery.min.js"></script>
+<link rel="stylesheet" href="/css/jquery-ui.css" />
 <link rel="stylesheet" href="/css/lightbox.css" />
-<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script> 
+<script src="/js/jquery-ui.min.js"></script> 
 <script src="/js/jquery-1.11.0.min.js"></script> 
 <script src="/js/lightbox.min.js"></script> 
 <script src="/js/jquery.smint.js"></script> 

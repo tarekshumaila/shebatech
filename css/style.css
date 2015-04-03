@@ -115,7 +115,7 @@ text-align: center;}
     padding: 45px;
     text-align: justify;
 }
-#aboutusdescription p{margin:0px;}
+#aboutusdescription p{margin:0px;  font-size: 20px;}
 
 /* services start */
 

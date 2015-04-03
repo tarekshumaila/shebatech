@@ -15,21 +15,19 @@
 <script src="/js/lightbox.min.js"></script> 
 <script src="/js/jquery.smint.js"></script> 
 <script>
-
 	$(document).ready( function() {
 		//scroll
-	$('a[href^="#"]').click(function(e) {
-        e.preventDefault();
-        var target = this.hash, $target = $(target);
-        $('html, body').stop().animate({
-            'scrollTop': $target.offset().top-80
-        }, 900, 'swing', function() {
-            window.location.hash = target;
-        });
-    });
+		$('a[href^="#"]').click(function(e) {
+	        e.preventDefault();
+	        var target = this.hash, $target = $(target);
+	        $('html, body').stop().animate({
+	            'scrollTop': $target.offset().top-80
+	        }, 900, 'swing', function() {
+	            window.location.hash = target;
+	        });
+	    });
 
-
-
+		//slider
 		$("#1").fadeIn(2000);
 		$("#slider #1 img").delay(1500).fadeIn(2000);
 		$("#1").delay(5000).fadeOut(2000);
@@ -42,17 +40,16 @@
 			$("#slider #"+count+" img").delay(1500).fadeIn(2000);
 			$("#slider #"+count).delay(5000).fadeOut(2000);
 
-
 			if(count == slides){
 				count = 1;
 			}else{
 				count = count+1;
 			}
 		},9200);
- 
 	});
 </script>
 <script>
+	//google anlytics
    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)

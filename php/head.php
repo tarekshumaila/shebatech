@@ -14,9 +14,7 @@
 <script src="/js/jquery.smint.js"></script> 
 <script type="text/javascript">
 
-		$(document).ready( function() {
-	$('.subMenu').smint();
-});
+	
 	function Slider(){
 
 		$("#1").fadeIn(2000);

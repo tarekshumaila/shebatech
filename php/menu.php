@@ -5,7 +5,7 @@
 </li>
 
 <li id="menu">
-    <ul class="menu">
+    <ul class="menuscroll">
         <a href="#" class="menuitem first"> <li class="menu">Home</li> </a>
         <a href="#aboutus" class="menuitem second"> <li class="menu">About us</li>  </a>
         <a href="#services" class="menuitem third"> <li class="menu">Services</li>  </a>

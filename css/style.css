@@ -217,6 +217,9 @@ text-align: center;}
 #contactussocialbuttons{
    padding-top: 20;
     max-width: 300px;
+      color: white;
+  font-weight: bolder;
+  letter-spacing: 2px;
 }
 .contactusicon{
     height: 35px;

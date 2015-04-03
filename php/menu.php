@@ -4,9 +4,9 @@
     </a>
 </li>
 
-<li id="menu">
-    <ul class="menuscroll">
-        <a href="#" class="menuitem first"> <li class="menu">Home</li> </a>
+<li class="menuscroll" id="menu">
+    <ul >
+        <a href="#home" class="menuitem first"> <li class="menu">Home</li> </a>
         <a href="#aboutus" class="menuitem second"> <li class="menu">About us</li>  </a>
         <a href="#services" class="menuitem third"> <li class="menu">Services</li>  </a>
         <a href="#portfolio" class="menuitem fourth"> <li class="menu">Portfolio</li>  </a>

@@ -5,11 +5,12 @@
 
 <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="css/ShebaFlex.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <link rel="stylesheet" href="/css/jquery-ui.css" />
 <link rel="stylesheet" href="/css/lightbox.css" />
 
-<link rel="stylesheet" href="css/ShebaFlex.css">
+
 <script src="/js/jquery.min.js"></script> 
 <script src="/js/jquery-ui.min.js"></script> 
 <script src="/js/lightbox.min.js"></script> 
@@ -21,7 +22,7 @@
 	        e.preventDefault();
 	        var target = this.hash, $target = $(target);
 	        $('html, body').stop().animate({
-	            'scrollTop': $target.offset().top-80
+	            'scrollTop': $target.offset().top
 	        }, 900, 'swing', function() {
 	            window.location.hash = target;
 	        });

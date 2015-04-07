@@ -1,5 +1,5 @@
 <div class="mediumcontainer flex justify-around wrap-wrap">
-    <ul class="title centerMeInANewLine"> <img  src="img/services/services.png"> </ul>
+    <ul class="sectiontitle centerMeInANewLine"> <img  src="img/services/services.png"> </ul>
     <ul class="servicecircle">
         <ul class="serviceicon"> <img src="../img/services/website.png"> </ul>
         <p class="servicetitle">Websites</p>

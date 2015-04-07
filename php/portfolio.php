@@ -1,5 +1,5 @@
 <div class="mediumcontainer flex justify-around wrap-wrap">
-	<ul class="title centerMeInANewLine"> <img src="img/portfolio/portfolio.png"> </ul>
+	<ul class="sectiontitle centerMeInANewLine"> <img src="img/portfolio/portfolio.png"> </ul>
 	<a href="../img/portfolio/1/1.png" data-lightbox="port1" data-title="Slider Design">
 		<ul class="portfoliocircles port1"> </ul>
 	</a>

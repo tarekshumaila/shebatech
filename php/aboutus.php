@@ -1,6 +1,6 @@
 
 <div class="mediumcontainer flex justify-around wrap-wrap">
-	<ul class="title centerMeInANewLine"> 
+	<ul class="sectiontitle centerMeInANewLine"> 
 		<img  src="img/aboutus/aboutus.png"> 
 	</ul>
 	<ul id="pinklogo" class="centerMeInANewLine">
